@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  body: MyText
+  sentence_hash: MyString
+  critique_id: 1
+
+two:
+  body: MyText
+  sentence_hash: MyString
+  critique_id: 1
